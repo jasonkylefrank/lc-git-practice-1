@@ -1,3 +1,5 @@
+const calvinsawsomeness = 10000;
+const levisawsomeness = Infinity;
+calvinsawsomeness++;
+
 const levi = 50;
-const blah = 5;
-const h = 9;
